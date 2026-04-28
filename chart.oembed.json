@@ -4,8 +4,7 @@
     "provider_name": "Adafruit Charts",
     "provider_url": "https://jwcooper.github.io/oembed-test/",
     "title": "Temperature Sample Chart",
-    "html": "<iframe src=\"https://jwcooper.github.io/oembed-test/chart.html\" width=\"600\" height=\"400\" frameborder=\"0\" loading=\"lazy\"
-  title=\"Temperature Sample Chart\"></iframe>",
+    "html": "<iframe src=\"https://jwcooper.github.io/oembed-test/chart.html\" width=\"600\" height=\"400\" frameborder=\"0\" loading=\"lazy\" title=\"Temperature Sample Chart\"></iframe>",
     "width": 600,
     "height": 400
   }
