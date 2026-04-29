@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Adafruit",
+  "provider_url": "https://adafruit.github.io/Adafruit_Learning_System_Embeds/",
+  "title": "Hello — Adafruit oEmbed Example",
+  "html": "<iframe src=\"https://adafruit.github.io/Adafruit_Learning_System_Embeds/example/\" style=\"display:block;width:100%;aspect-ratio:16/9;border:0;\" loading=\"lazy\" title=\"Hello — Adafruit oEmbed Example\"></iframe>",
+  "width": 1200,
+  "height": 675
+}
+
